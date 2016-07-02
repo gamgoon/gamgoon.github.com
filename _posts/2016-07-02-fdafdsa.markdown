@@ -1,0 +1,7 @@
+---
+published: true
+title: fdafdsa
+layout: post
+permalink: test
+---
+fdsafsa
