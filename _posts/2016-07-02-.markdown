@@ -1,6 +1,0 @@
----
-published: true
-title: ㅅㄷㄴㅅ
-layout: post
----
-ㅅㄷㄴㅅ
