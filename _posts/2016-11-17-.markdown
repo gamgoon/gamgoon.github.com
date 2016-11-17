@@ -1,6 +1,0 @@
----
-published: false
-title: 테스트
-layout: post
----
-다시 테스트
